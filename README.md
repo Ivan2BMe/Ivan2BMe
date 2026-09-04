@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Ivan2BAlive@Gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Star Wars Geek!
 
 <!---
 Ivan2BMe/Ivan2BMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
